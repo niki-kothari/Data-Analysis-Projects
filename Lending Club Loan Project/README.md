@@ -20,6 +20,20 @@ I worked to clean the data, analyze customer behavior, and visualize patterns th
 
 > Provide recommendations based on insights from the analysis.
 
+🛠️ Technologies Used
+
+> Python
+
+> Pandas
+
+> NumPy
+
+> Matplotlib
+
+> Seaborn
+
+> Jupyter Notebook
+
 🧩 Dataset
 
 The dataset contains information about loans issued by a lending company.
@@ -98,17 +112,3 @@ Wrote short explanations below each chart to make the notebook more readable.
 Through this project, I learned how important data cleaning and visualization are in any real-world data analysis.
 I gained practical experience in handling messy datasets, using Python libraries effectively, and communicating results clearly.
 This project gave me confidence in working with financial data and taught me how to make insights that are useful for decision-making.
-
-🛠️ Technologies Used
-
-> Python
-
-> Pandas
-
-> NumPy
-
-> Matplotlib
-
-> Seaborn
-
-> Jupyter Notebook
